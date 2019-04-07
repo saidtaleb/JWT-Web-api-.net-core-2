@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\JwtNetCore\JwtNetCore\bin\Debug\netcoreapp2.1\JwtNetCore.deps.json
+C:\Users\ASUS\source\repos\JwtNetCore\JwtNetCore\bin\Debug\netcoreapp2.1\JwtNetCore.runtimeconfig.json
+C:\Users\ASUS\source\repos\JwtNetCore\JwtNetCore\bin\Debug\netcoreapp2.1\JwtNetCore.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\JwtNetCore\JwtNetCore\bin\Debug\netcoreapp2.1\JwtNetCore.dll
+C:\Users\ASUS\source\repos\JwtNetCore\JwtNetCore\obj\Debug\netcoreapp2.1\JwtNetCore.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\JwtNetCore\JwtNetCore\obj\Debug\netcoreapp2.1\JwtNetCore.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\JwtNetCore\JwtNetCore\obj\Debug\netcoreapp2.1\JwtNetCore.RazorAssemblyInfo.cache
+C:\Users\ASUS\source\repos\JwtNetCore\JwtNetCore\obj\Debug\netcoreapp2.1\JwtNetCore.RazorAssemblyInfo.cs
+C:\Users\ASUS\source\repos\JwtNetCore\JwtNetCore\obj\Debug\netcoreapp2.1\JwtNetCore.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\JwtNetCore\JwtNetCore\obj\Debug\netcoreapp2.1\JwtNetCore.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\JwtNetCore\JwtNetCore\obj\Debug\netcoreapp2.1\JwtNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\source\repos\JwtNetCore\JwtNetCore\bin\Debug\netcoreapp2.1\JwtNetCore.pdb
+C:\Users\ASUS\source\repos\JwtNetCore\JwtNetCore\obj\Debug\netcoreapp2.1\JwtNetCore.dll
+C:\Users\ASUS\source\repos\JwtNetCore\JwtNetCore\obj\Debug\netcoreapp2.1\JwtNetCore.pdb
